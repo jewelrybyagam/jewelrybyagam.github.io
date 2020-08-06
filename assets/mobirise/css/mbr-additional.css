@@ -1560,6 +1560,53 @@ section.lazy-placeholder:after {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-3.jpg");
 }
+.cid-s6U9TAgiYu {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s6U9TAgiYu h2 {
+  margin-bottom: 0;
+}
+.cid-s6U9TAgiYu h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  width: 80%;
+}
+.cid-s6U9TAgiYu p {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-s6U9TAgiYu .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-s6U9TAgiYu .card-wrapper .card-box {
+  padding: 2rem 1rem;
+  width: 100%;
+}
+.cid-s6U9TAgiYu .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-s6U9TAgiYu .card-wrapper .card-box .bottom-line {
+  width: 70%;
+}
+@media (max-width: 767px) {
+  .cid-s6U9TAgiYu .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-s6U9TAgiYu .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-s6U9TAgiYu H2 {
+  text-align: center;
+}
 .cid-s6TI9C8pcp {
   padding-top: 90px;
   padding-bottom: 90px;
