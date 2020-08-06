@@ -1108,7 +1108,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "שרשרת חרוזים",
-                "active": true
+                "active": false
               },
               {
                 "tags": "צמידים",
@@ -1133,7 +1133,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "עגיל דובון גומי - ירוק",
+                "caption": "עגיל דובון גומי&nbsp;",
                 "active": false
               },
               {
@@ -1160,7 +1160,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "עגיל כוכבים&nbsp;",
-                "active": false
+                "active": true
               },
               {
                 "tags": "עגילים",
@@ -1173,7 +1173,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "עגיל פרח&nbsp;",
-                "active": false
+                "active": true
               },
               {
                 "tags": "עגילים",
