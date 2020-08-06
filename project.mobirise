@@ -51,7 +51,7 @@
     "uniqCompNum": 15,
     "versionPublish": "5.0.21",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -1060,6 +1060,9 @@
             },
             "H2": {
               "text-align": "center"
+            },
+            ".card-title": {
+              "text-align": "left"
             }
           },
           "_name": "services3",
