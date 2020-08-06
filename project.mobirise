@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jewelry By Agam",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1159,7 +1159,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "עגיל כוכבים -ירוק",
+                "caption": "עגיל כוכבים&nbsp;",
                 "active": false
               },
               {
@@ -1315,7 +1315,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "צמיד צדפה חום",
+                "caption": "צמיד צדפה זהב",
                 "active": false
               },
               {
@@ -1341,7 +1341,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "צמיד כוכב חום",
+                "caption": "צמיד כוכב זהב",
                 "active": false
               },
               {
@@ -1419,7 +1419,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "צמיד צדפה חום",
+                "caption": "צמיד צדפה זהב",
                 "active": false
               },
               {
@@ -1432,7 +1432,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "צמיד חרוזים שחור - צדפה חום",
+                "caption": "צמיד חרוזים שחור - צדפה זהב",
                 "active": false
               },
               {
@@ -1445,7 +1445,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "צמיד חרוזים -לבן חום",
+                "caption": "צמיד חרוזים -לבן זהב",
                 "active": false
               },
               {
