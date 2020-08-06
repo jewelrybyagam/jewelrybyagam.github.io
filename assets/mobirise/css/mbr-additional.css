@@ -2523,53 +2523,58 @@ section.lazy-placeholder:after {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-4.jpg");
 }
-.cid-s6UcanVUXJ {
-  padding-top: 105px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+.cid-s6UcPmZv5o {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #0f7699, #cc2952);
 }
-.cid-s6UcanVUXJ h2 {
-  margin-bottom: 0;
+.cid-s6UcPmZv5o .list-group-item {
+  padding: .75rem 3.25rem;
 }
-.cid-s6UcanVUXJ h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  width: 80%;
-}
-.cid-s6UcanVUXJ p {
-  color: #767676;
-  margin-bottom: 0;
-}
-.cid-s6UcanVUXJ .card-wrapper {
-  border-top: 1px solid #efefef;
-  background-color: #ffffff;
+.cid-s6UcPmZv5o .plan {
+  word-break: break-word;
   position: relative;
-  justify-content: unset;
+  max-width: 300px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
 }
-.cid-s6UcanVUXJ .card-wrapper .card-box {
-  padding: 2rem 1rem;
-  width: 100%;
+.cid-s6UcPmZv5o .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  border: 0;
 }
-.cid-s6UcanVUXJ .card-wrapper .card-box .top-line {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.cid-s6UcPmZv5o .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  content: "";
+  background-color: #eaeaea;
 }
-.cid-s6UcanVUXJ .card-wrapper .card-box .bottom-line {
-  width: 70%;
+.cid-s6UcPmZv5o .plan .list-group-item:last-child::after {
+  display: none;
 }
-@media (max-width: 767px) {
-  .cid-s6UcanVUXJ .card-wrapper .card-box .bottom-line {
-    width: 100%;
+.cid-s6UcPmZv5o .plan-header {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-s6UcPmZv5o .plan-header,
+.cid-s6UcPmZv5o .plan-body {
+  background-color: #fff;
+}
+.cid-s6UcPmZv5o .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+.cid-s6UcPmZv5o .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+@media (max-width: 550px) {
+  .cid-s6UcPmZv5o .price-figure {
+    font-size: 4.25rem;
   }
-  .cid-s6UcanVUXJ .card-wrapper .card-box .bottom-line p {
-    text-align: center;
-    margin: 1rem 0 0 0;
-  }
-}
-.cid-s6UcanVUXJ H2 {
-  text-align: center;
-}
-.cid-s6UcanVUXJ .card-title {
-  text-align: left;
 }
