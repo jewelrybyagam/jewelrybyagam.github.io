@@ -1122,43 +1122,6 @@ a {
   text-align: center;
   color: #4479d9;
 }
-.cid-s74RCeL02c {
-  padding-top: 3rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-s74RpZBqsR {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #fafafa;
-}
-.cid-s74RpZBqsR .oldcost {
-  text-decoration: line-through;
-  color: #777d74;
-}
-.cid-s74RpZBqsR .currentcost {
-  color: #333333;
-}
-.cid-s74RpZBqsR .card-wrapper {
-  border-radius: 4px;
-  background: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-s74RpZBqsR .text-box {
-    padding: 2rem;
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s74RpZBqsR .text-box {
-    padding: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-s74RpZBqsR .text-box {
-    padding: 1rem;
-  }
-}
 .cid-s74Dtoju6M {
   z-index: 1000;
   width: 100%;
